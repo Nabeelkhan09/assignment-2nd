@@ -1,0 +1,10 @@
+.heading {
+    background-color: #7e4d4d;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+  } 

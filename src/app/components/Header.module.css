@@ -1,0 +1,11 @@
+.heading {
+    background-color: #3db386; /* Blue background */
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .tag {
+    List-style:none
+  }
